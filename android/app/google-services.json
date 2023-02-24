@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "970599966675",
+    "project_id": "phoneauth-c095b",
+    "storage_bucket": "phoneauth-c095b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970599966675:android:ab2f8c9adbd79f0ea23126",
+        "android_client_info": {
+          "package_name": "com.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970599966675-9bf9q03j5fvsq7v4uluv1u4nkru1s1vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZRe2JdiUZg5B99AjeuODY4LIzAwRRPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970599966675-9bf9q03j5fvsq7v4uluv1u4nkru1s1vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970599966675:android:9def403dd8b9996aa23126",
+        "android_client_info": {
+          "package_name": "com.zomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970599966675-9bf9q03j5fvsq7v4uluv1u4nkru1s1vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZRe2JdiUZg5B99AjeuODY4LIzAwRRPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970599966675-9bf9q03j5fvsq7v4uluv1u4nkru1s1vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
